@@ -1,0 +1,18 @@
+.image {
+	max-width: 400px;
+}
+
+.cards {
+  margin: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  font-size: 13px;
+}
+
+.image:hover {
+  transform: scale(1.03);
+  transition: .1s ease-in-out;
+}

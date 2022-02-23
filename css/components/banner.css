@@ -1,0 +1,39 @@
+#background-video {
+	height: 500px;
+	width: 100vw;
+	object-fit: cover;
+	position: relative;
+	margin: -8px;
+	z-index: -1;
+}
+
+.banner {
+	color: white;
+	text-shadow: black 5px 0 15px;
+	text-align: center;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 18px;
+}
+
+.content {
+	margin-top: 90px;
+}
+
+.logo {
+	margin-top: 15px;
+	margin-top: -485px;
+	z-index: 1;
+}
+
+.btn-banner {
+	background-color: #12784A;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    display: inline-block;
+    margin-top: 5px;
+}
+

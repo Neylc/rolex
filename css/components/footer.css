@@ -1,0 +1,12 @@
+.footer {
+	background-color: #12784A;
+	margin: 0px;
+	padding: 5px;
+}
+
+.text-footer {
+	text-align: center;
+	color: white;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 10px;
+}

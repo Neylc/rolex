@@ -1,0 +1,9 @@
+.btn-vert {
+    background-color: #12784A;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+}
